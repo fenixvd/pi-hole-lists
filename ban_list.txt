@@ -27721,7 +27721,6 @@
 0.0.0.0 gzefitkcep.com
 0.0.0.0 gzsdsjy.com
 0.0.0.0 gzyrs.com
-0.0.0.0 h-bid.com
 0.0.0.0 cv.h-docomo.com
 0.0.0.0 h-gsolicitors.com
 0.0.0.0 h-villamotel.com
@@ -39966,7 +39965,6 @@
 0.0.0.0 nightwound.com
 0.0.0.0 nijabuy.com
 0.0.0.0 a8cv.nijiun.com
-0.0.0.0 analytics.nike.com
 0.0.0.0 nikeinpolska.com
 0.0.0.0 nikforex.com
 0.0.0.0 evrget.nikkan-gendai.com
@@ -153421,3 +153419,4 @@
 0.0.0.0 cemjot.com
 0.0.0.0 market-vouchers.com
 0.0.0.0 1111ind.com
+0.0.0.0 grpc.biliapi.net
