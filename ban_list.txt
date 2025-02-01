@@ -23257,7 +23257,6 @@
 0.0.0.0 as.featurelink.com
 0.0.0.0 featuringfeedback.com
 0.0.0.0 feautofab.com
-0.0.0.0 februaryinjectionproudly.com
 0.0.0.0 februarylovestory.com
 0.0.0.0 feciliareviews.com
 0.0.0.0 fecoseating.com
@@ -55255,7 +55254,6 @@
 0.0.0.0 tally.upsideout.com
 0.0.0.0 upsight-api.com
 0.0.0.0 creative.upskirtlive.com
-0.0.0.0 upskittyan.com
 0.0.0.0 upskycreative.com
 0.0.0.0 upsnap.com
 0.0.0.0 upt4poboxnow.com
@@ -70246,7 +70244,6 @@
 0.0.0.0 olx-pl.zvenoxi.lol
 0.0.0.0 olx-pl.zvients.lol
 0.0.0.0 olx-pl.zxendos.lol
-0.0.0.0 j-mxponyz.love
 0.0.0.0 i.sandbox.love
 0.0.0.0 teiagrma.love
 0.0.0.0 adservice.google.co.ls
