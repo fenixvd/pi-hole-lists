@@ -6508,7 +6508,6 @@
 0.0.0.0 accesoplugin.com
 0.0.0.0 accessfreevpn.com
 0.0.0.0 in.accessgov.com
-0.0.0.0 accessibletighterchorus.com
 0.0.0.0 tr.news.accessmastertour.com
 0.0.0.0 tr.news.accessmbatour.com
 0.0.0.0 accessorydairy.com
@@ -22207,7 +22206,6 @@
 0.0.0.0 evelyntilley.com
 0.0.0.0 get.even.com
 0.0.0.0 get-staging.even.com
-0.0.0.0 evendisciplineseedlings.com
 0.0.0.0 srepdata.eveningsun.com
 0.0.0.0 event-tracking.com
 0.0.0.0 applink.eventable.com
@@ -53852,7 +53850,6 @@
 0.0.0.0 videos-bleepingcomputers-com.tvpagecdn.com
 0.0.0.0 tvpalmvacation.com
 0.0.0.0 tvpassport.com
-0.0.0.0 tvpixel.com
 0.0.0.0 tvshowslist.com
 0.0.0.0 tvsquared.com
 0.0.0.0 tw-survey.com
@@ -62416,7 +62413,6 @@
 0.0.0.0 concentration2.fun
 0.0.0.0 connectcupids.fun
 0.0.0.0 conservation277.fun
-0.0.0.0 copperjav182.fun
 0.0.0.0 createjav182.fun
 0.0.0.0 a8.cucua.fun
 0.0.0.0 deckjav11.fun
@@ -62470,7 +62466,6 @@
 0.0.0.0 givebacks25.fun
 0.0.0.0 globalize25.fun
 0.0.0.0 gothicize25.fun
-0.0.0.0 graduate472.fun
 0.0.0.0 graveljav128.fun
 0.0.0.0 gravitat.fun
 0.0.0.0 grizzlers30.fun
@@ -73606,7 +73601,6 @@
 0.0.0.0 smsmovies.net
 0.0.0.0 img.sn00.net
 0.0.0.0 tr.info.snpden.net
-0.0.0.0 collector.snplow.net
 0.0.0.0 snt1.net
 0.0.0.0 social-runner.net
 0.0.0.0 societe-kzh.net
@@ -83421,7 +83415,6 @@
 0.0.0.0 extrasales.shop
 0.0.0.0 fainsflavory.shop
 0.0.0.0 lnpost.famaokstan.shop
-0.0.0.0 farcivinage.shop
 0.0.0.0 go-olx.fast-click.shop
 0.0.0.0 upsecure.faveb.shop
 0.0.0.0 main-olx.favorite-me.shop
@@ -83730,7 +83723,6 @@
 0.0.0.0 inpost.latinger.shop
 0.0.0.0 dpd-pl.leentain.shop
 0.0.0.0 olx.legal-offer.shop
-0.0.0.0 legitfizzed.shop
 0.0.0.0 olx-pl.legmmdxdt34q.shop
 0.0.0.0 lemonmaju.shop
 0.0.0.0 lensalmes.shop
@@ -86068,7 +86060,6 @@
 0.0.0.0 poolnoodle.tech
 0.0.0.0 seemlessfixing.tech
 0.0.0.0 slowmac.tech
-0.0.0.0 squeezely.tech
 0.0.0.0 mail.tesla-investments-poland.tech
 0.0.0.0 info.verifund.tech
 0.0.0.0 zsmhlv.zgbv.tech
@@ -90019,7 +90010,6 @@
 0.0.0.0 adservice.google.ws
 0.0.0.0 lcloud.idcom1-ch.ws
 0.0.0.0 internethistorycleaner.ws
-0.0.0.0 lewd.ws
 0.0.0.0 linkworld.ws
 0.0.0.0 demobywatel.mcsite.ws
 0.0.0.0 a.ads.rmbl.ws
@@ -91499,7 +91489,6 @@
 0.0.0.0 imbler.xyz
 0.0.0.0 immediateinclude.xyz
 0.0.0.0 vinted-pl-gj32d.import4.xyz
-0.0.0.0 imported1x.xyz
 0.0.0.0 in-postion.xyz
 0.0.0.0 in0ative1ech.xyz
 0.0.0.0 incomementorhub.xyz
@@ -151911,3 +151900,4 @@
 0.0.0.0 xojysei.info
 0.0.0.0 statsigapi.net
 0.0.0.0 biv.gazeta.pl
+0.0.0.0 sgad.surfsnow.jp
