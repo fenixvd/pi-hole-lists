@@ -5518,7 +5518,6 @@
 0.0.0.0 cv.a-cial.com
 0.0.0.0 cv.a-hikkoshi.com
 0.0.0.0 ad.insight.a-i-ad.com
-0.0.0.0 id.a-mx.com
 0.0.0.0 a-redirect.com
 0.0.0.0 a-resolver.com
 0.0.0.0 a-zrepairsapi-rpc.com
@@ -150753,7 +150752,6 @@
 0.0.0.0 8356.reminews.com
 0.0.0.0 eeboazurg.net
 0.0.0.0 1d6e2b8238f84657bb2b9af57530887d.js.ubembed.com
-0.0.0.0 pnwrs5xz.click
 0.0.0.0 9382.gofenews.com
 0.0.0.0 4009.jemonews.com
 0.0.0.0 prosecutorremarkablegodforsaken.com
@@ -151962,3 +151960,4 @@
 0.0.0.0 white.contentsfeed.com
 0.0.0.0 naumezeephovy.net
 0.0.0.0 smetrics.pahealthwellness.com
+0.0.0.0 guangzhuiyuan.com
