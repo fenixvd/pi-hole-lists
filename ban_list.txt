@@ -35600,7 +35600,6 @@
 0.0.0.0 velo-ostriv.com
 0.0.0.0 velonexx.com
 0.0.0.0 ads.veloxia.com
-0.0.0.0 venatusmedia.com
 0.0.0.0 counters.vendio.com
 0.0.0.0 vengefulgrass.com
 0.0.0.0 venomia.com
@@ -145470,7 +145469,6 @@
 0.0.0.0 1povik.lycheenews.com
 0.0.0.0 canroyastrol.click
 0.0.0.0 768dec369927449f8608255de3dfb98d.js.ubembed.com
-0.0.0.0 hobitsaffined.com
 0.0.0.0 marionboston.com
 0.0.0.0 reflex-md.com
 0.0.0.0 smetrics.atecsports.com
@@ -147776,3 +147774,4 @@
 0.0.0.0 ht2s41.lat
 0.0.0.0 biology4life.com
 0.0.0.0 jghtooi.com
+0.0.0.0 b1.trickyrock.com
