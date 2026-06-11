@@ -83979,7 +83979,6 @@
 0.0.0.0 digitaljungle.io
 0.0.0.0 origin-analytics-prod.production.braintree-api.com
 0.0.0.0 as.slashdot.org
-0.0.0.0 track.shiksha.com
 0.0.0.0 privacy.ft.com
 0.0.0.0 titplanet.com
 0.0.0.0 readanybook.com
@@ -85430,7 +85429,6 @@
 0.0.0.0 en.javfun.me
 0.0.0.0 eu-event.dengage.com
 0.0.0.0 t1322.adtech.ink
-0.0.0.0 dd.qwant.com
 0.0.0.0 mfdaudubon.com
 0.0.0.0 7ddcbba36ed7d5e485ccb7181a48cebaa2cd318b49ef7fb5bf3dd523add3d21.us-east-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 analytics.openedition.org
@@ -87346,7 +87344,6 @@
 0.0.0.0 mg.m.adoreme.com
 0.0.0.0 connexionsafe.com
 0.0.0.0 stats.ds33.fr
-0.0.0.0 chagnougroalry.net
 0.0.0.0 watchmygf.com
 0.0.0.0 stats.ogames.kz
 0.0.0.0 email.dentallymail.co.uk
@@ -98785,7 +98782,6 @@
 0.0.0.0 tommy.attn.tv
 0.0.0.0 learntechno.com
 0.0.0.0 analytics.persidera.it
-0.0.0.0 asecv.xyz
 0.0.0.0 zasc-err-up.vivoglobal.com
 0.0.0.0 cdn.pshb.me
 0.0.0.0 e4thai.com
@@ -101783,7 +101779,6 @@
 0.0.0.0 analytics.carolinaherrera.com
 0.0.0.0 sentry-2.wakacje.pl
 0.0.0.0 pulsar.impactify.media
-0.0.0.0 kookycommittee.com
 0.0.0.0 infatuated.ai
 0.0.0.0 pornworks.com
 0.0.0.0 videocdnmetrika46.com
@@ -102635,7 +102630,6 @@
 0.0.0.0 trelorianq.com
 0.0.0.0 choamdeugia.netlify.app
 0.0.0.0 gleam-shadow.com
-0.0.0.0 umami.vidfast.pro
 0.0.0.0 cossuthieunconfounded.info
 0.0.0.0 ahphold.com
 0.0.0.0 poeticfit.shop
@@ -108707,7 +108701,6 @@
 0.0.0.0 logowanie-online-bonus.mobile24.lat
 0.0.0.0 wpshot.com
 0.0.0.0 witberg.pro
-0.0.0.0 umami.vidup.to
 0.0.0.0 track.avt.pl
 0.0.0.0 rowerowywybor.shop
 0.0.0.0 microsoft.uminot.pl
@@ -113725,7 +113718,6 @@
 0.0.0.0 ly.trivialghana.qpon
 0.0.0.0 selvirelle.shop
 0.0.0.0 zentrolavixora.com
-0.0.0.0 masonerthoria.shop
 0.0.0.0 w7-moonshot.sbs
 0.0.0.0 geo-routing.cla.skyhook.com
 0.0.0.0 whiteyellowservices.com
@@ -114004,7 +113996,6 @@
 0.0.0.0 sl.linkmansclate.com
 0.0.0.0 trutine.rauracipodlikearsis.qpon
 0.0.0.0 fuel-burst.com
-0.0.0.0 k.qwant.com
 0.0.0.0 ogrozoneo.shop
 0.0.0.0 cemeaantation.info
 0.0.0.0 33dd9e9342.84e867f7b4.com
@@ -114291,7 +114282,6 @@
 0.0.0.0 n9s1lc88syhnc.v1d.pkoplink.com
 0.0.0.0 ta.feudistteuch.cyou
 0.0.0.0 kajh.top
-0.0.0.0 roughremove.com
 0.0.0.0 7wj5e3.top
 0.0.0.0 nxrm.telemetry.sonatype.com
 0.0.0.0 ea76c61190.1bb4f2018f.com
@@ -116542,7 +116532,6 @@
 0.0.0.0 sh2b-ue111.imptracking.com
 0.0.0.0 sgp-b4.bidin-ad.com
 0.0.0.0 tendaisy.com
-0.0.0.0 abjectionfreedpaying.com
 0.0.0.0 11051462--15722194-111-mnews.ms.vk.com
 0.0.0.0 r1.sn-5uaezny6.googlevideo.com
 0.0.0.0 surlalunefairytales.com
@@ -132782,3 +132771,4 @@
 0.0.0.0 linenwick.eu
 0.0.0.0 willowbasket.eu
 0.0.0.0 guest-pends8752.com
+0.0.0.0 cdn.nuqwe.com
