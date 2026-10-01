@@ -89133,7 +89133,6 @@
 0.0.0.0 rtb.featuretv.live
 0.0.0.0 ids.api.gcprivacy.id
 0.0.0.0 bid.mbidwpex.com
-0.0.0.0 hits.letras.mus.br
 0.0.0.0 jdata.vidmatefilm.org
 0.0.0.0 servx.premiumimpression.com
 0.0.0.0 sentry-mobile.lamoda.ru
@@ -126377,3 +126376,5 @@
 0.0.0.0 st-2492443.top
 0.0.0.0 gycdizbl.shop
 0.0.0.0 dailyflashdesk.xyz
+0.0.0.0 my.toruftuiov.com
+0.0.0.0 counter-mdpr.freetls.fastly.net
